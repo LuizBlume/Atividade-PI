@@ -1,0 +1,21 @@
+body{
+
+}
+main {
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+  }
+
+  ul {
+    list-style: none;
+  }
+
+  .text{
+    display: flex;
+    text-align: left;
+  }
+
+  #quit{
+    display: block;
+    margin-top: 20%;
+}
